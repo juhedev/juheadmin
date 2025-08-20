@@ -107,5 +107,6 @@ Copyright (c) 2025 juhedev
 
 ## 联系方式
 
-* 微信二维码：`Static/img/qun.png`
+* 技术交流群：
+![qun](Static/img/qun.png)
 * 邮箱：[admin@juhe.me](mailto:admin@juhe.me)
