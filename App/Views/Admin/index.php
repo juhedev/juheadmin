@@ -218,7 +218,7 @@
             <div class="flex flex-col md:flex-row justify-between items-center">
                 <p class="text-sm text-gray-500"> &copy; <?=date('Y')?> JuheAdmin. 保留所有权利. </p>
                 <div class="flex space-x-6 mt-2 md:mt-0">
-                    <a href="#" class="text-sm text-gray-500 hover:text-primary transition-colors">使用帮助</a>
+                    <a href="https://admin.juhe.me" class="text-sm text-gray-500 hover:text-primary transition-colors">使用帮助</a>
                     <a href="#" class="text-sm text-gray-500 hover:text-primary transition-colors">隐私政策</a>
                     <a href="#" id="contactSupport" class="text-sm text-gray-500 hover:text-primary transition-colors">联系支持</a>
                 </div>
