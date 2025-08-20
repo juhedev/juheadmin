@@ -1,0 +1,384 @@
+[17-Aug-2025 15:07:11 PRC] PHP Warning:  Undefined array key "name" in /www/wwwroot/admin.juhe.me/App/Core/PluginManager.php on line 169
+[17-Aug-2025 15:07:11 PRC] PHP Warning:  Undefined array key "name" in /www/wwwroot/admin.juhe.me/App/Core/PluginManager.php on line 169
+[17-Aug-2025 15:07:11 PRC] PHP Warning:  Undefined array key "name" in /www/wwwroot/admin.juhe.me/App/Core/PluginManager.php on line 169
+[17-Aug-2025 15:07:11 PRC] PHP Warning:  Undefined array key "name" in /www/wwwroot/admin.juhe.me/App/Core/PluginManager.php on line 169
+[17-Aug-2025 15:07:11 PRC] PHP Warning:  Undefined array key "name" in /www/wwwroot/admin.juhe.me/App/Core/PluginManager.php on line 169
+[17-Aug-2025 15:09:19 PRC] PHP Warning:  Undefined array key "name" in /www/wwwroot/admin.juhe.me/App/Core/PluginManager.php on line 169
+[17-Aug-2025 15:09:19 PRC] PHP Warning:  Undefined array key "name" in /www/wwwroot/admin.juhe.me/App/Core/PluginManager.php on line 169
+[17-Aug-2025 15:09:19 PRC] PHP Warning:  Undefined array key "name" in /www/wwwroot/admin.juhe.me/App/Core/PluginManager.php on line 169
+[17-Aug-2025 15:09:19 PRC] PHP Warning:  Undefined array key "name" in /www/wwwroot/admin.juhe.me/App/Core/PluginManager.php on line 169
+[17-Aug-2025 15:09:19 PRC] PHP Warning:  Undefined array key "name" in /www/wwwroot/admin.juhe.me/App/Core/PluginManager.php on line 169
+[17-Aug-2025 15:13:55 PRC] PHP Warning:  Undefined array key "plugin_name" in /www/wwwroot/admin.juhe.me/App/Core/PluginManager.php on line 220
+[17-Aug-2025 15:13:55 PRC] PHP Warning:  Undefined array key "plugin_name" in /www/wwwroot/admin.juhe.me/App/Core/PluginManager.php on line 220
+[17-Aug-2025 15:13:55 PRC] PHP Warning:  Undefined array key "plugin_name" in /www/wwwroot/admin.juhe.me/App/Core/PluginManager.php on line 220
+[17-Aug-2025 15:13:55 PRC] PHP Warning:  Undefined array key "plugin_name" in /www/wwwroot/admin.juhe.me/App/Core/PluginManager.php on line 220
+[17-Aug-2025 15:13:55 PRC] PHP Warning:  Undefined array key "plugin_name" in /www/wwwroot/admin.juhe.me/App/Core/PluginManager.php on line 220
+[17-Aug-2025 15:13:55 PRC] PHP Warning:  Undefined array key "plugin_name" in /www/wwwroot/admin.juhe.me/App/Core/PluginManager.php on line 220
+[17-Aug-2025 15:14:16 PRC] PHP Warning:  Undefined array key "name" in /www/wwwroot/admin.juhe.me/App/Core/PluginManager.php on line 169
+[17-Aug-2025 15:14:16 PRC] PHP Warning:  Undefined array key "name" in /www/wwwroot/admin.juhe.me/App/Core/PluginManager.php on line 169
+[17-Aug-2025 15:14:16 PRC] PHP Warning:  Undefined array key "name" in /www/wwwroot/admin.juhe.me/App/Core/PluginManager.php on line 169
+[17-Aug-2025 15:14:16 PRC] PHP Warning:  Undefined array key "name" in /www/wwwroot/admin.juhe.me/App/Core/PluginManager.php on line 169
+[17-Aug-2025 15:14:16 PRC] PHP Warning:  Undefined array key "name" in /www/wwwroot/admin.juhe.me/App/Core/PluginManager.php on line 169
+[17-Aug-2025 15:16:24 PRC] PHP Warning:  Undefined array key "name" in /www/wwwroot/admin.juhe.me/App/Core/PluginManager.php on line 169
+[17-Aug-2025 15:16:24 PRC] PHP Warning:  Undefined array key "name" in /www/wwwroot/admin.juhe.me/App/Core/PluginManager.php on line 169
+[17-Aug-2025 15:16:24 PRC] PHP Warning:  Undefined array key "name" in /www/wwwroot/admin.juhe.me/App/Core/PluginManager.php on line 169
+[17-Aug-2025 15:16:24 PRC] PHP Warning:  Undefined array key "name" in /www/wwwroot/admin.juhe.me/App/Core/PluginManager.php on line 169
+[17-Aug-2025 15:16:24 PRC] PHP Warning:  Undefined array key "name" in /www/wwwroot/admin.juhe.me/App/Core/PluginManager.php on line 169
+[17-Aug-2025 17:49:10 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 17:49:10 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 17:49:10 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 17:49:10 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 17:49:10 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 17:49:10 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 17:49:10 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 17:49:10 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 17:49:10 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 17:49:10 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 17:57:10 PRC] PHP Parse error:  syntax error, unexpected token "foreach", expecting "function" or "const" in /www/wwwroot/admin.juhe.me/App/Controllers/Admin/PluginController.php on line 22
+[17-Aug-2025 18:04:05 PRC] PHP Parse error:  syntax error, unexpected variable "$this", expecting "function" or "const" in /www/wwwroot/admin.juhe.me/App/Controllers/Admin/PluginController.php on line 37
+[17-Aug-2025 18:04:07 PRC] PHP Parse error:  syntax error, unexpected variable "$this", expecting "function" or "const" in /www/wwwroot/admin.juhe.me/App/Controllers/Admin/PluginController.php on line 37
+[17-Aug-2025 18:04:24 PRC] PHP Warning:  scandir(/www/wwwroot/admin.juhe.me/App/Controllers/Admin/../../../Plugins/): Failed to open directory: No such file or directory in /www/wwwroot/admin.juhe.me/App/Controllers/Admin/PluginController.php on line 24
+[17-Aug-2025 18:04:24 PRC] PHP Warning:  scandir(): (errno 2): No such file or directory in /www/wwwroot/admin.juhe.me/App/Controllers/Admin/PluginController.php on line 24
+[17-Aug-2025 18:04:24 PRC] PHP Warning:  foreach() argument must be of type array|object, bool given in /www/wwwroot/admin.juhe.me/App/Controllers/Admin/PluginController.php on line 25
+[17-Aug-2025 18:04:24 PRC] PHP Warning:  Undefined variable $icon in /www/wwwroot/admin.juhe.me/App/Controllers/Admin/PluginController.php on line 35
+[17-Aug-2025 18:04:24 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:04:24 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:04:24 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:04:24 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:04:24 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:04:24 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:04:24 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:04:24 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:04:24 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:04:24 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:04:58 PRC] PHP Warning:  scandir(/www/wwwroot/admin.juhe.me/App/Controllers/Admin/../../../Plugins/): Failed to open directory: No such file or directory in /www/wwwroot/admin.juhe.me/App/Controllers/Admin/PluginController.php on line 24
+[17-Aug-2025 18:04:58 PRC] PHP Warning:  scandir(): (errno 2): No such file or directory in /www/wwwroot/admin.juhe.me/App/Controllers/Admin/PluginController.php on line 24
+[17-Aug-2025 18:04:58 PRC] PHP Warning:  foreach() argument must be of type array|object, bool given in /www/wwwroot/admin.juhe.me/App/Controllers/Admin/PluginController.php on line 25
+[17-Aug-2025 18:04:58 PRC] PHP Warning:  Undefined variable $icon in /www/wwwroot/admin.juhe.me/App/Controllers/Admin/PluginController.php on line 35
+[17-Aug-2025 18:04:58 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:04:58 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:04:58 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:04:58 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:04:58 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:04:58 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:04:58 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:04:58 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:04:58 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:04:58 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:07:51 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:07:51 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:07:51 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:07:51 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:07:51 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:07:51 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:07:51 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:07:51 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:07:51 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:07:51 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:08:24 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:08:24 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:08:24 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:08:24 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:08:24 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:08:24 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:08:24 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:08:24 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:08:24 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:08:24 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:09:14 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:09:14 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:09:14 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:09:14 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:09:14 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:09:14 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:09:14 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:09:14 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:09:14 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:09:14 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:10:10 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:10:10 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:10:10 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:10:10 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:10:10 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:10:10 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:10:10 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:10:10 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:10:10 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:10:10 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:11:47 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:11:47 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:11:47 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:11:47 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:11:47 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:11:47 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:11:47 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:11:47 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:11:47 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:11:47 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:15:50 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:15:50 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:15:50 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:15:50 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:15:50 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:15:50 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:15:50 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:15:50 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:15:50 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:15:50 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:15:50 PRC] PHP Warning:  Undefined array key "title" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 113
+[17-Aug-2025 18:15:50 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 113
+[17-Aug-2025 18:15:50 PRC] PHP Warning:  Undefined array key "description" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 127
+[17-Aug-2025 18:15:50 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 127
+[17-Aug-2025 18:15:50 PRC] PHP Warning:  Undefined array key "version" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 131
+[17-Aug-2025 18:15:50 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 131
+[17-Aug-2025 18:15:50 PRC] PHP Warning:  Undefined array key "url" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:15:50 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:15:50 PRC] PHP Warning:  Undefined array key "url" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:15:50 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:15:50 PRC] PHP Warning:  Undefined array key "installed" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 139
+[17-Aug-2025 18:15:50 PRC] PHP Warning:  Undefined array key "name" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 158
+[17-Aug-2025 18:15:50 PRC] PHP Warning:  Undefined array key "name" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 165
+[17-Aug-2025 18:15:50 PRC] PHP Warning:  Undefined array key "title" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 113
+[17-Aug-2025 18:15:50 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 113
+[17-Aug-2025 18:15:50 PRC] PHP Warning:  Undefined array key "description" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 127
+[17-Aug-2025 18:15:50 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 127
+[17-Aug-2025 18:15:50 PRC] PHP Warning:  Undefined array key "version" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 131
+[17-Aug-2025 18:15:50 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 131
+[17-Aug-2025 18:15:50 PRC] PHP Warning:  Undefined array key "url" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:15:50 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:15:50 PRC] PHP Warning:  Undefined array key "url" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:15:50 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:15:50 PRC] PHP Warning:  Undefined array key "installed" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 139
+[17-Aug-2025 18:15:50 PRC] PHP Warning:  Undefined array key "name" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 158
+[17-Aug-2025 18:15:50 PRC] PHP Warning:  Undefined array key "name" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 165
+[17-Aug-2025 18:15:50 PRC] PHP Warning:  Undefined array key "title" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 113
+[17-Aug-2025 18:15:50 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 113
+[17-Aug-2025 18:15:50 PRC] PHP Warning:  Undefined array key "description" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 127
+[17-Aug-2025 18:15:50 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 127
+[17-Aug-2025 18:15:50 PRC] PHP Warning:  Undefined array key "version" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 131
+[17-Aug-2025 18:15:50 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 131
+[17-Aug-2025 18:15:50 PRC] PHP Warning:  Undefined array key "url" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:15:50 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:15:50 PRC] PHP Warning:  Undefined array key "url" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:15:50 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:15:50 PRC] PHP Warning:  Undefined array key "installed" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 139
+[17-Aug-2025 18:15:50 PRC] PHP Warning:  Undefined array key "name" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 158
+[17-Aug-2025 18:15:50 PRC] PHP Warning:  Undefined array key "name" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 165
+[17-Aug-2025 18:15:50 PRC] PHP Warning:  Undefined array key "title" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 113
+[17-Aug-2025 18:15:50 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 113
+[17-Aug-2025 18:15:50 PRC] PHP Warning:  Undefined array key "description" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 127
+[17-Aug-2025 18:15:50 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 127
+[17-Aug-2025 18:15:50 PRC] PHP Warning:  Undefined array key "version" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 131
+[17-Aug-2025 18:15:50 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 131
+[17-Aug-2025 18:15:50 PRC] PHP Warning:  Undefined array key "url" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:15:50 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:15:50 PRC] PHP Warning:  Undefined array key "url" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:15:50 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:15:50 PRC] PHP Warning:  Undefined array key "installed" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 139
+[17-Aug-2025 18:15:50 PRC] PHP Warning:  Undefined array key "name" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 158
+[17-Aug-2025 18:15:50 PRC] PHP Warning:  Undefined array key "name" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 165
+[17-Aug-2025 18:15:50 PRC] PHP Warning:  Undefined array key "title" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 113
+[17-Aug-2025 18:15:50 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 113
+[17-Aug-2025 18:15:50 PRC] PHP Warning:  Undefined array key "description" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 127
+[17-Aug-2025 18:15:50 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 127
+[17-Aug-2025 18:15:50 PRC] PHP Warning:  Undefined array key "version" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 131
+[17-Aug-2025 18:15:50 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 131
+[17-Aug-2025 18:15:50 PRC] PHP Warning:  Undefined array key "url" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:15:50 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:15:50 PRC] PHP Warning:  Undefined array key "url" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:15:50 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:15:50 PRC] PHP Warning:  Undefined array key "installed" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 139
+[17-Aug-2025 18:15:50 PRC] PHP Warning:  Undefined array key "name" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 158
+[17-Aug-2025 18:15:50 PRC] PHP Warning:  Undefined array key "name" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 165
+[17-Aug-2025 18:17:16 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:17:16 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:17:16 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:17:16 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:17:16 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:17:16 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:17:16 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:17:16 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:17:16 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:17:16 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:17:16 PRC] PHP Warning:  Undefined array key "title" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 113
+[17-Aug-2025 18:17:16 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 113
+[17-Aug-2025 18:17:16 PRC] PHP Warning:  Undefined array key "description" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 127
+[17-Aug-2025 18:17:16 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 127
+[17-Aug-2025 18:17:16 PRC] PHP Warning:  Undefined array key "version" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 131
+[17-Aug-2025 18:17:16 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 131
+[17-Aug-2025 18:17:16 PRC] PHP Warning:  Undefined array key "url" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:17:16 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:17:16 PRC] PHP Warning:  Undefined array key "url" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:17:16 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:17:16 PRC] PHP Warning:  Undefined array key "installed" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 139
+[17-Aug-2025 18:17:16 PRC] PHP Warning:  Undefined array key "name" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 158
+[17-Aug-2025 18:17:16 PRC] PHP Warning:  Undefined array key "name" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 165
+[17-Aug-2025 18:17:16 PRC] PHP Warning:  Undefined array key "title" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 113
+[17-Aug-2025 18:17:16 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 113
+[17-Aug-2025 18:17:16 PRC] PHP Warning:  Undefined array key "description" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 127
+[17-Aug-2025 18:17:16 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 127
+[17-Aug-2025 18:17:16 PRC] PHP Warning:  Undefined array key "version" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 131
+[17-Aug-2025 18:17:16 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 131
+[17-Aug-2025 18:17:16 PRC] PHP Warning:  Undefined array key "url" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:17:16 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:17:16 PRC] PHP Warning:  Undefined array key "url" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:17:16 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:17:16 PRC] PHP Warning:  Undefined array key "installed" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 139
+[17-Aug-2025 18:17:16 PRC] PHP Warning:  Undefined array key "name" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 158
+[17-Aug-2025 18:17:16 PRC] PHP Warning:  Undefined array key "name" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 165
+[17-Aug-2025 18:17:16 PRC] PHP Warning:  Undefined array key "title" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 113
+[17-Aug-2025 18:17:16 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 113
+[17-Aug-2025 18:17:16 PRC] PHP Warning:  Undefined array key "description" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 127
+[17-Aug-2025 18:17:16 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 127
+[17-Aug-2025 18:17:16 PRC] PHP Warning:  Undefined array key "version" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 131
+[17-Aug-2025 18:17:16 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 131
+[17-Aug-2025 18:17:16 PRC] PHP Warning:  Undefined array key "url" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:17:16 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:17:16 PRC] PHP Warning:  Undefined array key "url" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:17:16 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:17:16 PRC] PHP Warning:  Undefined array key "installed" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 139
+[17-Aug-2025 18:17:16 PRC] PHP Warning:  Undefined array key "name" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 158
+[17-Aug-2025 18:17:16 PRC] PHP Warning:  Undefined array key "name" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 165
+[17-Aug-2025 18:17:16 PRC] PHP Warning:  Undefined array key "title" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 113
+[17-Aug-2025 18:17:16 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 113
+[17-Aug-2025 18:17:16 PRC] PHP Warning:  Undefined array key "description" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 127
+[17-Aug-2025 18:17:16 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 127
+[17-Aug-2025 18:17:16 PRC] PHP Warning:  Undefined array key "version" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 131
+[17-Aug-2025 18:17:16 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 131
+[17-Aug-2025 18:17:16 PRC] PHP Warning:  Undefined array key "url" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:17:16 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:17:16 PRC] PHP Warning:  Undefined array key "url" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:17:16 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:17:16 PRC] PHP Warning:  Undefined array key "installed" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 139
+[17-Aug-2025 18:17:16 PRC] PHP Warning:  Undefined array key "name" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 158
+[17-Aug-2025 18:17:16 PRC] PHP Warning:  Undefined array key "name" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 165
+[17-Aug-2025 18:17:16 PRC] PHP Warning:  Undefined array key "title" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 113
+[17-Aug-2025 18:17:16 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 113
+[17-Aug-2025 18:17:16 PRC] PHP Warning:  Undefined array key "description" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 127
+[17-Aug-2025 18:17:16 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 127
+[17-Aug-2025 18:17:16 PRC] PHP Warning:  Undefined array key "version" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 131
+[17-Aug-2025 18:17:16 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 131
+[17-Aug-2025 18:17:16 PRC] PHP Warning:  Undefined array key "url" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:17:16 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:17:16 PRC] PHP Warning:  Undefined array key "url" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:17:16 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:17:16 PRC] PHP Warning:  Undefined array key "installed" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 139
+[17-Aug-2025 18:17:16 PRC] PHP Warning:  Undefined array key "name" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 158
+[17-Aug-2025 18:17:16 PRC] PHP Warning:  Undefined array key "name" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 165
+[17-Aug-2025 18:17:20 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:17:20 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:17:20 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:17:20 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:17:20 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:17:20 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:17:20 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:17:20 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:17:20 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:17:20 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:17:20 PRC] PHP Warning:  Undefined array key "title" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 113
+[17-Aug-2025 18:17:20 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 113
+[17-Aug-2025 18:17:20 PRC] PHP Warning:  Undefined array key "description" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 127
+[17-Aug-2025 18:17:20 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 127
+[17-Aug-2025 18:17:20 PRC] PHP Warning:  Undefined array key "version" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 131
+[17-Aug-2025 18:17:20 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 131
+[17-Aug-2025 18:17:20 PRC] PHP Warning:  Undefined array key "url" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:17:20 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:17:20 PRC] PHP Warning:  Undefined array key "url" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:17:20 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:17:20 PRC] PHP Warning:  Undefined array key "installed" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 139
+[17-Aug-2025 18:17:20 PRC] PHP Warning:  Undefined array key "name" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 158
+[17-Aug-2025 18:17:20 PRC] PHP Warning:  Undefined array key "name" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 165
+[17-Aug-2025 18:17:20 PRC] PHP Warning:  Undefined array key "title" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 113
+[17-Aug-2025 18:17:20 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 113
+[17-Aug-2025 18:17:20 PRC] PHP Warning:  Undefined array key "description" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 127
+[17-Aug-2025 18:17:20 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 127
+[17-Aug-2025 18:17:20 PRC] PHP Warning:  Undefined array key "version" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 131
+[17-Aug-2025 18:17:20 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 131
+[17-Aug-2025 18:17:20 PRC] PHP Warning:  Undefined array key "url" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:17:20 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:17:20 PRC] PHP Warning:  Undefined array key "url" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:17:20 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:17:20 PRC] PHP Warning:  Undefined array key "installed" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 139
+[17-Aug-2025 18:17:20 PRC] PHP Warning:  Undefined array key "name" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 158
+[17-Aug-2025 18:17:20 PRC] PHP Warning:  Undefined array key "name" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 165
+[17-Aug-2025 18:17:20 PRC] PHP Warning:  Undefined array key "title" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 113
+[17-Aug-2025 18:17:20 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 113
+[17-Aug-2025 18:17:20 PRC] PHP Warning:  Undefined array key "description" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 127
+[17-Aug-2025 18:17:20 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 127
+[17-Aug-2025 18:17:20 PRC] PHP Warning:  Undefined array key "version" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 131
+[17-Aug-2025 18:17:20 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 131
+[17-Aug-2025 18:17:20 PRC] PHP Warning:  Undefined array key "url" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:17:20 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:17:20 PRC] PHP Warning:  Undefined array key "url" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:17:20 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:17:20 PRC] PHP Warning:  Undefined array key "installed" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 139
+[17-Aug-2025 18:17:20 PRC] PHP Warning:  Undefined array key "name" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 158
+[17-Aug-2025 18:17:20 PRC] PHP Warning:  Undefined array key "name" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 165
+[17-Aug-2025 18:17:20 PRC] PHP Warning:  Undefined array key "title" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 113
+[17-Aug-2025 18:17:20 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 113
+[17-Aug-2025 18:17:20 PRC] PHP Warning:  Undefined array key "description" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 127
+[17-Aug-2025 18:17:20 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 127
+[17-Aug-2025 18:17:20 PRC] PHP Warning:  Undefined array key "version" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 131
+[17-Aug-2025 18:17:20 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 131
+[17-Aug-2025 18:17:20 PRC] PHP Warning:  Undefined array key "url" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:17:20 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:17:20 PRC] PHP Warning:  Undefined array key "url" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:17:20 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:17:20 PRC] PHP Warning:  Undefined array key "installed" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 139
+[17-Aug-2025 18:17:20 PRC] PHP Warning:  Undefined array key "name" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 158
+[17-Aug-2025 18:17:20 PRC] PHP Warning:  Undefined array key "name" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 165
+[17-Aug-2025 18:17:20 PRC] PHP Warning:  Undefined array key "title" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 113
+[17-Aug-2025 18:17:20 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 113
+[17-Aug-2025 18:17:20 PRC] PHP Warning:  Undefined array key "description" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 127
+[17-Aug-2025 18:17:20 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 127
+[17-Aug-2025 18:17:20 PRC] PHP Warning:  Undefined array key "version" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 131
+[17-Aug-2025 18:17:20 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 131
+[17-Aug-2025 18:17:20 PRC] PHP Warning:  Undefined array key "url" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:17:20 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:17:20 PRC] PHP Warning:  Undefined array key "url" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:17:20 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 134
+[17-Aug-2025 18:17:20 PRC] PHP Warning:  Undefined array key "installed" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 139
+[17-Aug-2025 18:17:20 PRC] PHP Warning:  Undefined array key "name" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 158
+[17-Aug-2025 18:17:20 PRC] PHP Warning:  Undefined array key "name" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 165
+[17-Aug-2025 18:37:52 PRC] PHP Warning:  scandir(/www/wwwroot/admin.juhe.me/App/Core/../../Plugins/): Failed to open directory: No such file or directory in /www/wwwroot/admin.juhe.me/App/Core/PluginManager.php on line 185
+[17-Aug-2025 18:37:52 PRC] PHP Warning:  scandir(): (errno 2): No such file or directory in /www/wwwroot/admin.juhe.me/App/Core/PluginManager.php on line 185
+[17-Aug-2025 18:38:07 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:38:07 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:38:07 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:38:07 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:38:07 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:38:07 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:38:07 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:38:07 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:38:07 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:38:07 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:38:42 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:38:42 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:38:42 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:38:42 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:38:42 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:38:42 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:38:42 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:38:42 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:38:42 PRC] PHP Warning:  Undefined array key "icon" in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:38:42 PRC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /www/wwwroot/admin.juhe.me/App/Views/Admin/plugins.php on line 112
+[17-Aug-2025 18:44:02 PRC] PHP Warning:  scandir(/www/wwwroot/admin.juhe.me/App/Core/../../Plugins/): Failed to open directory: No such file or directory in /www/wwwroot/admin.juhe.me/App/Core/PluginManager.php on line 179
+[17-Aug-2025 18:44:02 PRC] PHP Warning:  scandir(): (errno 2): No such file or directory in /www/wwwroot/admin.juhe.me/App/Core/PluginManager.php on line 179
+[17-Aug-2025 18:48:06 PRC] PHP Parse error:  syntax error, unexpected token "foreach" in /www/wwwroot/admin.juhe.me/App/Controllers/Admin/PluginController.php on line 26
+[18-Aug-2025 03:23:33 PRC] 自动加载失败，未找到文件: Plugins/WxScan/Controllers/lib/JSSDK.php
+[18-Aug-2025 03:30:38 PRC] PHP Warning:  mkdir(): Permission denied in /www/wwwroot/admin.juhe.me/App/Plugins/WxShare/Controllers/lib/jssdk.php on line 14
+[18-Aug-2025 03:30:38 PRC] PHP Warning:  fopen(/www/wwwroot/admin.juhe.me/App/Plugins/WxShare/Controllers/lib/cache/jsapi_ticket.php): Failed to open stream: No such file or directory in /www/wwwroot/admin.juhe.me/App/Plugins/WxShare/Controllers/lib/jssdk.php on line 146
+[18-Aug-2025 03:30:44 PRC] PHP Warning:  mkdir(): Permission denied in /www/wwwroot/admin.juhe.me/App/Plugins/WxShare/Controllers/lib/jssdk.php on line 14
+[18-Aug-2025 03:30:44 PRC] PHP Warning:  fopen(/www/wwwroot/admin.juhe.me/App/Plugins/WxShare/Controllers/lib/cache/jsapi_ticket.php): Failed to open stream: No such file or directory in /www/wwwroot/admin.juhe.me/App/Plugins/WxShare/Controllers/lib/jssdk.php on line 146
+[18-Aug-2025 03:31:16 PRC] PHP Warning:  mkdir(): Permission denied in /www/wwwroot/admin.juhe.me/App/Plugins/WxShare/Controllers/lib/jssdk.php on line 14
+[18-Aug-2025 03:31:16 PRC] PHP Warning:  fopen(/www/wwwroot/admin.juhe.me/App/Plugins/WxShare/Controllers/lib/cache/jsapi_ticket.php): Failed to open stream: No such file or directory in /www/wwwroot/admin.juhe.me/App/Plugins/WxShare/Controllers/lib/jssdk.php on line 146
+[18-Aug-2025 03:32:12 PRC] PHP Warning:  mkdir(): Permission denied in /www/wwwroot/admin.juhe.me/App/Plugins/WxShare/Controllers/lib/jssdk.php on line 14
+[18-Aug-2025 03:32:12 PRC] PHP Warning:  fopen(/www/wwwroot/admin.juhe.me/App/Plugins/WxShare/Controllers/lib/cache/jsapi_ticket.php): Failed to open stream: No such file or directory in /www/wwwroot/admin.juhe.me/App/Plugins/WxShare/Controllers/lib/jssdk.php on line 146
+[18-Aug-2025 03:34:28 PRC] PHP Warning:  mkdir(): Permission denied in /www/wwwroot/admin.juhe.me/App/Plugins/WxShare/Controllers/lib/jssdk.php on line 21
+[18-Aug-2025 03:37:46 PRC] PHP Warning:  fopen(/www/wwwroot/admin.juhe.me/App/Plugins/WxShare/Controllers/lib/jsapi_ticket.php): Failed to open stream: Permission denied in /www/wwwroot/admin.juhe.me/App/Plugins/WxShare/Controllers/lib/jssdk.php on line 146
+[18-Aug-2025 04:04:47 PRC] PHP Warning:  Undefined variable $name in /www/wwwroot/admin.juhe.me/App/Plugins/WxShare/Controllers/Admin/WxShareController.php on line 144
+[18-Aug-2025 04:06:13 PRC] PHP Warning:  Undefined variable $name in /www/wwwroot/admin.juhe.me/App/Plugins/WxShare/Controllers/Admin/WxShareController.php on line 144
+[18-Aug-2025 04:07:42 PRC] PHP Warning:  Undefined variable $name in /www/wwwroot/admin.juhe.me/App/Plugins/WxShare/Controllers/Admin/WxShareController.php on line 144
+[18-Aug-2025 04:11:05 PRC] PHP Warning:  Undefined variable $name in /www/wwwroot/admin.juhe.me/App/Plugins/WxShare/Controllers/Admin/WxShareController.php on line 161
+[18-Aug-2025 04:11:47 PRC] PHP Warning:  Undefined variable $name in /www/wwwroot/admin.juhe.me/App/Plugins/WxShare/Controllers/Admin/WxShareController.php on line 179
+[18-Aug-2025 04:11:55 PRC] PHP Warning:  Undefined variable $name in /www/wwwroot/admin.juhe.me/App/Plugins/WxShare/Controllers/Admin/WxShareController.php on line 179
