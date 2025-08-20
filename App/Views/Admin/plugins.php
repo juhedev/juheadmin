@@ -5,8 +5,10 @@
     </div>
     <div class="relative">
         <button  class="bg-primary hover:bg-primary/90 text-white px-4 py-2 rounded-lg flex items-center gap-2 btn-effect">
-            <i class="fas fa-th-large"></i>
-            <span>插件库</span>
+            <a target="_blank" href="https://plugins.juhe.me" >
+                <i class="fas fa-th-large"></i>
+                <span>插件库</span>
+            </a>
         </button>
         <div id="uploadOverlay" class="hidden fixed inset-0 bg-black/50 z-40 transition-opacity duration-300"></div>
         <div id="uploadForm" class="hidden fixed left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 w-80 bg-white rounded-lg shadow-lg p-4 z-50 border border-gray-200 transition-all duration-300 scale-95 opacity-0">
