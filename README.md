@@ -94,16 +94,6 @@ JuheAdmin 是一个基于 PHP 的轻量级后台管理框架，采用插件化�
 
 ---
 
-## 前台引用示例
-
-```html
-<header>
-    <img src="admin/assets/logo.png" alt="LOGO">
-    <img src="admin/assets/qr_wechat.png" alt="微信二维码">
-</header>
-```
-
----
 
 ## 许可证
 
@@ -117,5 +107,5 @@ Copyright (c) 2025 juhedev
 
 ## 联系方式
 
-* 微信二维码：`Static/img/qr_wechat.png`
+* 微信二维码：`Static/img/qun.png`
 * 邮箱：[admin@juhe.me](mailto:admin@juhe.me)
