@@ -1,6 +1,6 @@
 # JuheAdmin 后台管理框架
 
-![Logo](Static/img/logo.png)
+![Logo](Static/img/logo-1.png)
 
 ## 项目简介
 
