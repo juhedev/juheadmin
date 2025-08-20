@@ -47,9 +47,9 @@ JuheAdmin 是一个基于 PHP 的轻量级后台管理框架，采用插件化�
 ---
 
 ## 系统截图
-![Logo](Static/img/1.png)
-![Logo](Static/img/2.png)
-![Logo](Static/img/3.png)
+![1](Static/img/1.png)
+![2](Static/img/2.png)
+![3](Static/img/3.png)
 
 
 
