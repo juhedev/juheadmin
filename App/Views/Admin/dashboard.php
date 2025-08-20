@@ -85,7 +85,7 @@
                 <div class="bg-white rounded-xl p-6 card-shadow lg:col-span-2">
                     <div class="flex justify-between items-center mb-6">
                         <h2 class="text-lg font-semibold">核心功能</h2>
-                        <a href="https://github.com/yourusername/yourproject" target="_blank" class="text-xs text-primary hover:underline flex items-center">
+                        <a href="https://github.com/juhedev/juheadmin" target="_blank" class="text-xs text-primary hover:underline flex items-center">
                             <i class="fab fa-github mr-1"></i> 查看源码
                         </a>
                     </div>
@@ -228,10 +228,10 @@
                     <div class="p-4 bg-gray-50 rounded-lg mb-6">
                         <h3 class="text-sm font-medium mb-3">快速开始</h3>
                         <div class="space-y-3">
-                            <a href="https://github.com/yourusername/yourproject/archive/refs/heads/main.zip" class="flex items-center justify-center p-2 text-sm bg-primary text-white rounded-lg hover:bg-primary/90 transition-colors">
+                            <a href="https://github.com/juhedev/juheadmin" class="flex items-center justify-center p-2 text-sm bg-primary text-white rounded-lg hover:bg-primary/90 transition-colors">
                                 <i class="fas fa-download mr-2"></i> 下载源码
                             </a>
-                            <a href="https://docs.yourproject.com/installation" target="_blank" class="flex items-center justify-center p-2 text-sm border border-gray-300 rounded-lg hover:bg-gray-50 transition-colors">
+                            <a href="https://admin.juhe.me" target="_blank" class="flex items-center justify-center p-2 text-sm border border-gray-300 rounded-lg hover:bg-gray-50 transition-colors">
                                 <i class="fas fa-book mr-2"></i> 安装文档
                             </a>
                         </div>
@@ -240,7 +240,7 @@
                     <div class="p-4 bg-gray-50 rounded-lg">
                         <h3 class="text-sm font-medium mb-2">社区支持</h3>
                         <div class="flex space-x-3">
-                            <a href="https://github.com/yourusername/yourproject/issues" target="_blank" class="text-gray-600 hover:text-primary transition-colors" title="提交Issue">
+                            <a href="https://github.com/juhedev/juheadmin/issues" target="_blank" class="text-gray-600 hover:text-primary transition-colors" title="提交Issue">
                                 <i class="fab fa-github text-xl"></i>
                             </a>
                             <a href="https://discord.gg/yourinvite" target="_blank" class="text-gray-600 hover:text-primary transition-colors" title="Discord社区">
