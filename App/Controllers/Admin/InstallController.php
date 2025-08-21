@@ -622,7 +622,7 @@ class InstallController
                 <label for="db_host" class="block text-sm font-medium text-gray-700 mb-1">数据库主机</label>
                 <div class="relative">
                     <div class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none text-gray-400">
-                        <i class="fa fa-server"></i>
+                        <i class="fa fa-server -mt-5"></i>
                     </div>
                     <input type="text" id="db_host" name="db_host" value="localhost" required
                         class="w-full pl-10 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-primary/50 focus:border-primary transition-all">
@@ -656,7 +656,7 @@ class InstallController
                 <label for="db_pass" class="block text-sm font-medium text-gray-700 mb-1">数据库密码</label>
                 <div class="relative">
                     <div class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none text-gray-400">
-                        <i class="fa fa-lock"></i>
+                        <i class="fa fa-lock -mt-5"></i>
                     </div>
                     <input type="password" id="db_pass" name="db_pass"
                         class="w-full pl-10 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-primary/50 focus:border-primary transition-all">
