@@ -475,8 +475,7 @@ class InstallController
         $extensions = ['pdo', 'pdo_mysql', 'mbstring', 'json', 'openssl'];
         $writableFiles = [
             ROOT_PATH . "Db",
-            ROOT_PATH . "uploads",
-            ROOT_PATH . "storage",
+            ROOT_PATH . "Storage",
         ];
         
         // 检查PHP版本是否符合要求
