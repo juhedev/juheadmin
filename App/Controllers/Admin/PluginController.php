@@ -84,7 +84,7 @@ class PluginController extends AdminBaseController {
             http_response_code(400);
             echo json_encode([
                 'success' => false,
-                'message' => "插件缺少必要信息,请检查插件是否规范！"
+                'message' =>$this->pluginManager->getLastError() ?: "插件缺少必要信息,请检查插件是否规范！"
             ]);
             return;
         }
