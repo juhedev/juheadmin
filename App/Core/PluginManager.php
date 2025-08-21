@@ -13,6 +13,17 @@ class PluginManager {
     protected $enabledPlugins = [];
     protected $systemRoutes = [];
     protected $enabledRoutes = [];
+    private $lastError = '';
+
+    private function setError(string $msg) {
+        $this->lastError = $msg;
+        $this->log("[ERROR] $msg");
+    }
+
+    public function getLastError(): string {
+        return $this->lastError;
+    }
+
 
     /**
      * 构造函数
@@ -200,12 +211,12 @@ class PluginManager {
         $info = [];
         $arrayConfig = @include $pluginFile;
         if (!is_array($arrayConfig)) {
-            $this->log("[ERROR] Plugin file {$pluginFile} must return an array");
+            $this->setError("[ERROR] Plugin file {$pluginFile} must return an array");
             return [];
         }
         $lines = file($pluginFile);
         if (!$lines) {
-            $this->log("[ERROR] Cannot read plugin file: {$pluginFile}");
+            $this->setError("[ERROR] Cannot read plugin file: {$pluginFile}");
             return [];
         }
 
@@ -226,14 +237,14 @@ class PluginManager {
         // 检查必要字段是否存在且非空
         foreach ($requiredFields as $field) {
             if (empty($info[$field])) {
-                $this->log("[ERROR] Plugin {$pluginFile} 缺少必要字段或为空: {$field}");
+                $this->setError("[ERROR] Plugin {$pluginFile} 缺少必要字段或为空: {$field}");
                 return [];
             }
         }
 
         // 插件文件夹名必须和插件名一致
         if ($pluginDirName !== $info['plugin_name']) {
-            $this->log("[ERROR] 插件目录名 {$pluginDirName} 与插件名 {$info['plugin_name']} 不一致");
+            $this->setError("[ERROR] 插件目录名 {$pluginDirName} 与插件名 {$info['plugin_name']} 不一致");
             return [];
         }
 
