@@ -472,39 +472,65 @@ class InstallController
     protected function checkEnvironment()
     {
         $phpVersion = PHP_VERSION;
-        $extensions = ['pdo', 'pdo_mysql', 'mbstring', 'json', 'openssl'];
-        $writableFiles = [
-            ROOT_PATH . "Db",
-            ROOT_PATH . "Storage",
+        $extensions = [
+            'pdo_mysql' => 'MySQL PDO 驱动（必须）',
+            'mbstring'  => '多字节字符串支持（必须）',
+            'json'      => 'JSON 解析支持（必须）',
+            'openssl'   => 'OpenSSL 加密扩展（必须）',
+            'fileinfo'  => '文件信息扩展（必须）',
+            'pdo'       => 'PDO 基础扩展（可选，一般随 pdo_mysql 自动启用）'
+        ];
+        $writableDirs = [
+            ROOT_PATH . "Db"      => "数据库配置目录",
+            ROOT_PATH . "Storage" => "文件存储目录"
         ];
         
-        // 检查PHP版本是否符合要求
+        // 检查PHP版本
         $phpVersionOk = version_compare($phpVersion, '8.0.0', '>=');
-        
-        // 检查所有扩展是否都已安装
+
+        // 检查扩展
         $allExtensionsOk = true;
-        foreach ($extensions as $ext) {
-            if (!extension_loaded($ext)) {
+        $extensionResults = [];
+        foreach ($extensions as $ext => $desc) {
+            $installed = extension_loaded($ext);
+            if (!$installed && $ext !== 'pdo') { // pdo 可选
                 $allExtensionsOk = false;
             }
+            $extensionResults[] = [
+                'name' => $ext,
+                'desc' => $desc,
+                'installed' => $installed
+            ];
         }
-        
-        // 检查所有文件是否可写
-        $allFilesWritable = true;
-        foreach ($writableFiles as $file) {
-            if (!is_dir($file)) {
-                mkdir($file, 0755, true);
+
+        // 检查目录写权限（真实写入测试）
+        $allDirsWritable = true;
+        $dirResults = [];
+        foreach ($writableDirs as $dir => $desc) {
+            if (!is_dir($dir)) {
+                mkdir($dir, 0755, true);
             }
-            
-            if (!is_writable($file)) {
-                $allFilesWritable = false;
+            $testFile = $dir . '/.test';
+            $canWrite = @file_put_contents($testFile, 'test') !== false;
+            if ($canWrite) {
+                unlink($testFile);
+            } else {
+                $allDirsWritable = false;
             }
+            $dirResults[] = [
+                'path' => $dir,
+                'desc' => $desc,
+                'writable' => $canWrite
+            ];
         }
+
+        // 检查 PHP 配置
+        $fileUploadsOk = ini_get('file_uploads');
 
         echo "<h2 class='text-2xl font-bold text-gray-800 mb-6 flex items-center'>
             <i class='fa fa-server text-primary mr-3'></i>环境检测
         </h2>";
-        
+
         // PHP版本检查
         echo "<div class='mb-4 p-4 border rounded-lg " . ($phpVersionOk ? 'border-green-200 bg-green-50' : 'border-red-200 bg-red-50') . "'>
             <div class='flex justify-between items-center'>
@@ -518,57 +544,69 @@ class InstallController
             </div>
             <p class='mt-2 text-sm text-gray-700'>当前版本: $phpVersion</p>
         </div>";
-        
+
         // 扩展检查
         echo "<div class='mb-4'>
             <h3 class='font-medium text-gray-800 mb-3'>必要扩展</h3>
             <div class='grid grid-cols-1 md:grid-cols-2 gap-3'>";
-                foreach ($extensions as $ext) {
-                    $installed = extension_loaded($ext);
-                    echo "<div class='p-3 border rounded-lg " . ($installed ? 'border-green-200 bg-green-50' : 'border-red-200 bg-red-50') . "'>
-                        <div class='flex justify-between items-center'>
-                            <span>$ext</span>
-                            <span class='" . ($installed ? 'text-secondary' : 'text-danger') . "'>
-                                " . ($installed ? '已安装' : '未安装') . "
-                            </span>
-                        </div>
-                    </div>";
-                }
+        foreach ($extensionResults as $ext) {
+            echo "<div class='p-3 border rounded-lg " . ($ext['installed'] ? 'border-green-200 bg-green-50' : 'border-red-200 bg-red-50') . "'>
+                <div class='flex justify-between items-center'>
+                    <span>{$ext['desc']} ({$ext['name']})</span>
+                    <span class='" . ($ext['installed'] ? 'text-secondary' : 'text-danger') . "'>
+                        " . ($ext['installed'] ? '✅' : '❌') . "
+                    </span>
+                </div>";
+            if (!$ext['installed']) {
+                echo "<p class='text-xs text-gray-500 mt-1'>Linux 安装命令示例: <code>apt install php-{$ext['name']}</code></p>";
+            }
+            echo "</div>";
+        }
         echo "</div></div>";
-        
+
         // 文件权限检查
         echo "<div class='mb-6'>
             <h3 class='font-medium text-gray-800 mb-3'>文件权限</h3>
             <div class='space-y-3'>";
-                foreach ($writableFiles as $file) {
-                    $writable = is_writable($file);
-                    echo "<div class='p-3 border rounded-lg " . ($writable ? 'border-green-200 bg-green-50' : 'border-red-200 bg-red-50') . "'>
-                        <div class='flex justify-between items-center'>
-                            <span class='text-sm truncate max-w-[70%]'>$file</span>
-                            <span class='" . ($writable ? 'text-secondary' : 'text-danger') . "'>
-                                " . ($writable ? '可写' : '不可写') . "
-                            </span>
-                        </div>
-                    </div>";
-                }
+        foreach ($dirResults as $dir) {
+            echo "<div class='p-3 border rounded-lg " . ($dir['writable'] ? 'border-green-200 bg-green-50' : 'border-red-200 bg-red-50') . "'>
+                <div class='flex justify-between items-center'>
+                    <span class='text-sm truncate max-w-[70%]'>{$dir['desc']} ({$dir['path']})</span>
+                    <span class='" . ($dir['writable'] ? 'text-secondary' : 'text-danger') . "'>
+                        " . ($dir['writable'] ? '✅' : '❌') . "
+                    </span>
+                </div>
+            </div>";
+        }
         echo "</div></div>";
-        
+
+        // PHP 配置检查
+        echo "<div class='mb-6 p-4 border rounded-lg " . ($fileUploadsOk ? 'border-green-200 bg-green-50' : 'border-red-200 bg-red-50') . "'>
+            <div class='flex justify-between items-center'>
+                <span>文件上传 (file_uploads)</span>
+                <span class='" . ($fileUploadsOk ? 'text-secondary' : 'text-danger') . "'>
+                    " . ($fileUploadsOk ? '✅' : '❌') . "
+                </span>
+            </div>
+        </div>";
+
         // 下一步按钮
-        $allChecksPassed = $phpVersionOk && $allExtensionsOk && $allFilesWritable;
+        $allChecksPassed = $phpVersionOk && $allExtensionsOk && $allDirsWritable && $fileUploadsOk;
         echo "<div class='flex justify-end mt-8'>";
-            if ($allChecksPassed) {
-                echo "<a href='?step=2' class='btn btn-primary flex items-center'>
-                    <span>下一步：数据库设置</span>
-                    <i class='fa fa-arrow-right ml-2'></i>
-                </a>";
-            } else {
-                echo "<button class='btn bg-gray-300 text-gray-500 cursor-not-allowed' disabled>
-                    <span>请先解决所有问题</span>
-                    <i class='fa fa-arrow-right ml-2'></i>
-                </button>";
-            }
+        if ($allChecksPassed) {
+            echo "<a href='?step=2' class='btn btn-primary flex items-center'>
+                <span>下一步：数据库设置</span>
+                <i class='fa fa-arrow-right ml-2'></i>
+            </a>";
+        } else {
+            echo "<button class='btn bg-gray-300 text-gray-500 cursor-not-allowed' disabled>
+                <span>请先解决所有问题</span>
+                <i class='fa fa-arrow-right ml-2'></i>
+            </button>";
+        }
         echo "</div>";
     }
+
 
     // 第二步：数据库表单
     protected function databaseForm()
