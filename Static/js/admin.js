@@ -379,22 +379,9 @@
                 if (data.success) {
                     showMessage('个人资料更新成功');
                     closeProfileModalFunc();
-                    
-                    // 更新页面显示的用户名
-                    const newUsername = document.getElementById('profileUsername')?.value;
-                   if (newUsername) {
-                      
-                        if (targetUsername) {
-                            const usernameElements = Array.from(document.querySelectorAll('span'))
-                                .filter(span => {
-                                    return span.textContent.trim().includes(targetUsername.trim());
-                                });
-                            
-                            usernameElements.forEach(el => {
-                                el.textContent = newUsername;
-                            });
-                        }
-                    }
+                    setTimeout(() => {
+                        window.location.href = '/admin/logout'; 
+                    }, 2000); 
                 } else {
                     throw new Error(data.message || '更新失败');
                 }
