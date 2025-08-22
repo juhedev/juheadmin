@@ -377,7 +377,7 @@
 
                 const data = await response.json();
                 if (data.success) {
-                    showMessage('个人资料更新成功');
+                    showMessage('个人资料更新成功，请重新登录！');
                     closeProfileModalFunc();
                     setTimeout(() => {
                         window.location.href = '/admin/logout'; 
